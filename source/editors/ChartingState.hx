@@ -278,10 +278,10 @@ class ChartingState extends MusicBeatState
 		UI_box.y = 25;
 		UI_box.scrollFactor.set();
 
-		var text:String =
+		var text:String = // THIS IS STUPID SHIT
 		"W/S or Mouse Wheel - Change Conductor's strum time
 		\nA or Left/D or Right - Go to the previous/next section
-		\nHold Shift to move 4x faster
+		\nHold Shift to move 4x faster | ALT to make it 24x faster
 		\nHold Control and click on an arrow to select it
 		\nZ/X - Zoom in/out
 		\n
